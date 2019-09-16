@@ -75,5 +75,3 @@ execution command.
     │  ├─ system/         System tests
     │  └─ *.c             Unit tests source file
     └─ Makefile           Makefile for make
-# 2018-spring-database
-# 2018-spring-database
